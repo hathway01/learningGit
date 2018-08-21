@@ -1,1 +1,2 @@
-just an update to test remote conflict
+
+just a deletion of update
